@@ -1,25 +1,31 @@
-### Hi there 👋
+### Hi there i'm Jhonnyer otalvaro👋
 
 <!--
 **Jhonnyk-book/Jhonnyk-book** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m don't currently working...
+🌱 I’m currently learning: Python, backend and frontend...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-## My GitHub Stats 📋
+## My GitHub Stats in my persona github * [**Jhonnyer Otalvaro**](https://github.com/Jhonierk) 📋 
 
 <a><img width="432" img align="left" src="https://github-readme-stats.vercel.app/api?username=Jhonierk&show_icons=true&theme=tokyonight" class="responsive" />
 </a><a><img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonierk&layout=compact&hide=html&theme=tokyonight" class="responsive"/></a>
 
+## My GitHub Stats in this github book: 📋 
+
+<a><img width="432" img align="left" src="https://github-readme-stats.vercel.app/api?username=Jhonnyk-book&show_icons=true&theme=tokyonight" class="responsive" />
+</a><a><img width="400" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnyk-book&layout=compact&hide=html&theme=tokyonight" class="responsive"/></a>
+
+📫 How to reach me:
 <h3 align="center">CONTACT ME 🤙</h3>
 <p align="center">
     <!-- linkedin -->

@@ -27,20 +27,20 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats 📋
 
+<br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonnyer-O&theme=react&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonnyer-O&theme=react&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnyer-O&theme=react&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonnyer-O&theme=react&hide_border=false"/>
 </div>
 
+<br>
 <div align="center"><br>
   <img align="center" alt="Jhonierk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhonierk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jhonierk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jhonierk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
-
-![snake animation](https://github.com/Jhonnyer-O/Jhonnyer-O/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">CONTACT ME 🤙</h3>
 <p align="center">

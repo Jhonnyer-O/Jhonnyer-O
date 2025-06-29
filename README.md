@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <h3 align="center">CONTACT ME 🤙</h3>
 <p align="center">
     <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/jhonnyer-otalvaro-696b9014b/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/jhonnyer-otalvaro-696b9014b/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;>
     <!-- twitter -->
-    <a href="https://twitter.com/JhonnyerOtalva2"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="40px" alt="Twitter"> </a> &nbsp; &nbsp;
+    
     <!-- gmail-->
-    <a href="mailto:1818@holbertonschool.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;
+    <a href="mailto:1818@holbertonschool.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;>
 </p>

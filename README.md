@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## My GitHub Stats 📋
 
 <br>
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonnyer-O&theme=react&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnyer-O&theme=react&show_icons=true&hide_border=false&layout=compact"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonnyer-O&theme=react&hide_border=false"/>
